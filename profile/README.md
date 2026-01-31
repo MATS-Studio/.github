@@ -23,11 +23,11 @@
 我们的发展体系为 “一核二基六翼”，贴合核心发展方向与阶段实践需求：以数理科学为核心，算法与程序设计为基础，覆盖算法研究、程序开发、游戏编程、数据分析、信息科学、自然科学六大实践方向.
 
 
-**本组织的目前在ccw上的成员**
+**本组织的目前在GitHub上的成员**
 
-①室长：Calamitas Killer（CCW249941225）
+①室长：Calamitas Killer（Calamitas-Killer）
 
-②副室长：IW大使（CCW242979307）、sWiRb（CCW256031731，CCW未改名）
+②副室长：IW大使（Iwandes）、Radicalsign-3（Radicalsign-3）
 
 ③一级成员：暂无
 
