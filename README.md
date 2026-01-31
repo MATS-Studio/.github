@@ -25,7 +25,7 @@
 
 **本组织的目前在ccw上的成员**
 
-①室长：Calamitas Killer（CCW24994122）
+①室长：Calamitas Killer（CCW249941225）
 
 ②副室长：IW大使（CCW242979307）、sWiRb（CCW256031731，CCW未改名）
 
